@@ -1,0 +1,5 @@
+Flask
+FastAPI
+uvicorn
+SQLAlchemy
+Jinja2
